@@ -21,7 +21,7 @@ h1 {
   text-shadow: 2px 2px rgb(252, 74, 74);
   font-size: 85px;
 }
-h2 {font-family: 'Text Me One', sans-serif; text-align: center;color: #a554fc;text-shadow: 1px 1px rgb(252, 74, 74);}
+h2 {font-family: 'Text Me One', sans-serif; text-align: center;color: #a554fc;text-shadow: 1px 1px rgb(252, 74, 74);font-weight: bold;}
 
 body {
 background-image: url("../css/images/burger.jpg");
@@ -29,6 +29,7 @@ background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     color: #a554fc;
+    font-weight: bold;
     
     
 }
